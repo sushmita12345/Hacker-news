@@ -1,0 +1,22 @@
+.news-card-wrapper {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 30vw;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.news-container {
+  display: flex;
+  background-color: #74b9c7;
+  border-radius: 20px;
+  position: relative;
+}
+
+.remove-bookmark {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+}
